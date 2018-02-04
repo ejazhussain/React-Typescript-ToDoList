@@ -1,6 +1,6 @@
 
 
-### Installing Guide
+### Installation Guide
 
 Clone above repo and run following command
 
